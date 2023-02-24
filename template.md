@@ -26,8 +26,8 @@
 
 ### Previous:
 
-- Previous research topic #1
-- Previous research topic #2
+- Previous research topics #1
+- Previous research topics #2
 
 ### Current:
 
